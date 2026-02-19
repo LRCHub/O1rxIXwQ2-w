@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "危ノーマル",
+  "base_artist": "花譜",
+  "createdAt": "2026-02-19T11:22:23.191275Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "危ノーマル",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/01_危ノーマル_花譜.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "危ノーマル",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/02_危ノーマル_花譜.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "危ノーマル",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/03_危ノーマル_花譜.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "危ノーマル(廉 Remix)",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/04_危ノーマル(廉_Remix)_花譜.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "危ノーマル",
+      "artist": "KAF",
+      "has_synced": true,
+      "path": "select/05_危ノーマル_KAF.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "危ノーマル",
+      "artist": "花譜 (KAF)",
+      "has_synced": true,
+      "path": "select/06_危ノーマル_花譜_(KAF).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "危ノーマル (廉 Remix)",
+      "artist": "KAF",
+      "has_synced": true,
+      "path": "select/07_危ノーマル_(廉_Remix)_KAF.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "危ノーマル(Instrumental)",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/08_危ノーマル(Instrumental)_花譜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "危ノーマル",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_危ノーマル_花譜.txt"
+    }
+  ]
+}
